@@ -1,0 +1,1169 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="" lang="" version="XHTML+RDFa 1.0" dir="">
+
+<head profile="">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<script type="text/javascript" src="js/materialize.min.js"></script>
+    
+	  
+	<script type="text/javascript">
+		(function () {
+			var options = {
+				whatsapp: "+55 51 3358-4770", // WhatsApp number
+				call_to_action: "Fale conosco.", // Call to action
+				position: "right", // Position may be 'right' or 'left'
+			};
+			var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+			s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+			var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+		})();
+	</script>
+	
+	<script type="text/javascript">
+			$(document).ready(function () {
+				$('.carousel').carousel();
+			});
+	</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KRHZ4QG');</script>
+<!-- End Google Tag Manager -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Sicredi União MS/TO RSS" href="https://sicrediuniaomsto.coop.br/rss.xml" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://sicrediuniaomsto.coop.br/" />
+<link rel="shortlink" href="https://sicrediuniaomsto.coop.br/" />
+<meta property="og:site_name" content="Sicredi União MS/TO" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://sicrediuniaomsto.coop.br/" />
+<meta property="og:title" content="Sicredi União MS/TO" />
+ 	
+  <title>Sicredi União MS/TO |</title>
+  <link type="text/css" rel="stylesheet" href="https://sicrediuniaomsto.coop.br/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sicrediuniaomsto.coop.br/sites/default/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sicrediuniaomsto.coop.br/sites/default/files/css/css_kdxlMv-UyYpTYMpSKvAfEhdA8nuJH9JwRE42adK-8DI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sicrediuniaomsto.coop.br/sites/default/files/css/css_gCTwKRyotsTQNciu-PMq-tmScHgSAE905eI_7PEyl4g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sicrediuniaomsto.coop.br/sites/default/files/css/css_WlDpjph5dIkbyY9n81uTR2-_Z3NonOov6-1w29QKVM8.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://sicrediuniaomsto.coop.br/sites/default/files/css/css_KhP6GRqxgUL2F7cFu00yfXVqa4SDNwmaZC-zKaF_6kM.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/all/libraries/respondjs/respond.min.js?sbsr1i"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_Hfha9RCTNm8mqMDLXriIsKGMaghzs4ZaqJPLj2esi7s.js"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_LhnpiT9kLqEQ9JyY1yti1uFTjbZhTCCttM4ntC4Bwkg.js"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_CNd4hBpi9UKZIxnkA8wC9G0g532zrVgS9AnmjpgauM0.js"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_g-Mx2GCUBZ-Zov8f1l3XI0lbf4wgQyY9T6iDsL-G-ic.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Drupal.viewsSlideshowSimplePager = Drupal.viewsSlideshowPagerFields || {};
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var uniquePagerID =
+    jQuery(".views-slideshow-pager-field-item").click(function() {
+      var eID = jQuery(this).attr("id").replace("views_slideshow_pager_field_item_bottom_","");
+      var ssID = eID.substring(0,eID.lastIndex("_"));
+      var sN = eID.substring(eID.lastIndex("_") + 1);
+      Drupal.viewsSlideshow.action({ "action": "goToSlide", "slideshowID": ssID, "slideNum": sN });
+    });
+  
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_4U4UJiRSa_EBNCnObcOFSqHRsOOgSt_Q9N_nCHZd-vQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-26462705-6", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_lrJC6AkMm54tbvjY7IsigG-fNi9IKqRCTiCMcmI-8Zo.js"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_gb5-zfguVW3epXOMkZ5C3a4M-3zM_n5NDttVPWcAMXg.js"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js_injector/js_injector_1.js?sbsr1i"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js_injector/js_injector_5.js?sbsr1i"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js_injector/js_injector_6.js?sbsr1i"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js_injector/js_injector_7.js?sbsr1i"></script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js_injector/js_injector_8.js?sbsr1i"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"acq_uniao","theme_token":"kM1iz81AkdOnwZQKaJ8keYnTMKw_VU--4Li9KVze2Ro","js":{"0":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/libraries\/respondjs\/respond.min.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"profiles\/gardens\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/miniorange_saml\/js\/testconfig.js":1,"public:\/\/languages\/pt-br__axzJmqy-czo5Ogx8JZmzQqaWpTC-kimrqx5lGNzIhg.js":1,"profiles\/gardens\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/gardens\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/gardens\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/gardens\/libraries\/timeago\/jquery.timeago.js":1,"profiles\/gardens\/modules\/contrib\/timeago\/timeago.js":1,"2":1,"3":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"profiles\/gardens\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"4":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/js\/superfish.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/js\/hoverIntent.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/js\/gardens_features.js":1,"sites\/default\/themes\/mythemes\/acq_uniao\/local.js":1,"sites\/default\/files\/js_injector\/js_injector_1.js":1,"sites\/default\/files\/js_injector\/js_injector_5.js":1,"sites\/default\/files\/js_injector\/js_injector_6.js":1,"sites\/default\/files\/js_injector\/js_injector_7.js":1,"sites\/default\/files\/js_injector\/js_injector_8.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"profiles\/gardens\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/counter\/counter.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"profiles\/gardens\/modules\/contrib\/views\/css\/views.css":1,"profiles\/gardens\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/gardens\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.jquery.ui.theme.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_simple_pager\/pager.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"profiles\/gardens\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/css\/dropdown.css":1,"profiles\/gardens\/modules\/contrib\/addtoany\/addtoany.css":1,"public:\/\/ctools\/css\/a7775290e091df969b5a22e78ba8793f.css":1,"sites\/default\/themes\/mythemes\/acq_uniao\/defaults.css":1,"sites\/default\/themes\/mythemes\/acq_uniao\/style.css":1,"sites\/default\/themes\/mythemes\/acq_uniao\/palette.css":1,"sites\/default\/themes\/mythemes\/acq_uniao\/custom.css":1,"sites\/default\/themes\/mythemes\/acq_uniao\/advanced.css":1,"sites\/default\/themes\/mythemes\/acq_uniao\/font-families.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/css\/ie\/gardens_features.lte-ie-8.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"timeago":{"refreshMillis":60000,"allowFuture":true,"localeTitle":false,"cutoff":0,"strings":{"prefixAgo":null,"prefixFromNow":null,"suffixAgo":"ago","suffixFromNow":"from now","seconds":"less than a minute","minute":"about a minute","minutes":"%d minutes","hour":"about an hour","hours":"about %d hours","day":"a day","days":"%d days","month":"about a month","months":"%d months","year":"about a year","years":"%d years","wordSeparator":" "}},"gardensFeatures":{"userIsAnonymous":true,"dialogUserEnabled":false,"isSMB":false,"siteFactoryProductPage":"https:\/\/www.acquia.com\/products-services\/acquia-cloud-site-factory"},"viewsSlideshow":{"banner_home-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"banner_home-block_1":{"bottom":{"type":"viewsSlideshowSimplePager","master_pager":"0"}}},"viewsSlideshowPagerFields":{"banner_home-block_1":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_banner_home-block_1":{"num_divs":2,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"banner_home-block_1","effect":"fade","transition_advanced":1,"timeout":13000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":["#main-menu"],"media_size":"768","media_unit":"px","absolute":"1","remove_attributes":"1","responsive_menus_style":"responsive_menus_simple"}],"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Cp\u003EPara analisar e melhorar a navega\u00e7\u00e3o no site, e personalizar os esfor\u00e7os de marketing, n\u00f3s armazenamos cookies no seu dispositivo.\u003C\/p\u003E               \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EObtenha mais informa\u00e7\u00f5es\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAceito\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\n\u003Cp\u003EBy tapping the Accept button, you agree to us doing so.\u003C\/p\u003E               \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EObtenha mais informa\u00e7\u00f5es\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EAceito\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.sicredi.com.br\/site\/protecao-e-privacidade\/","popup_link_new_window":1,"popup_position":null,"fixed_top_position":1,"popup_language":"pt-br","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":0,"popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EUsamos cookies neste site para melhorar sua experi\u00eancia de usu\u00e1rio\u003C\/h2\u003E\n\n\u003Cp\u003EVoc\u00ea deu seu consentimento para que definimos cookies.\u003C\/p\u003E     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":0,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":1,"cookie_name":"","cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","automatic_cookies_removal":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/":true},"password":{"strengthTitle":"Password compliance:"},"type":"setting"});
+//--><!]]>
+</script>
+   <link href="https://sicrediuniaomsto.coop.br/favicon.ico" rel="icon" type="image/x-icon">
+   <!--<script src="https://www.sicrediuniaomsto.coop.br/misc/jquery.maskedinput.js" type = "text/javascript"> </script> -->
+   
+   <script>
+	function myFunction() {
+	  document.getElementById("myDropdown").classList.toggle("show");
+	}
+
+	window.onclick = function(event) {
+	  if (!event.target.matches('.dropbtn')) {
+		var dropdowns = document.getElementsByClassName("dropdown-content");
+		var i;
+		for (i = 0; i < dropdowns.length; i++) {
+		  var openDropdown = dropdowns[i];
+		  if (openDropdown.classList.contains('show')) {
+			openDropdown.classList.remove('show');
+		  }
+		}
+	  }
+	}
+	</script>
+
+
+</head>
+<body class="html front not-logged-in no-sidebars page-node theme-markup-2 body-layout-fixed-cb" >
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRHZ4QG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <div id="skip-to-content">
+    <a href="#skip-to-content-target">Skip directly to content</a>
+  </div>
+
+  <!--[if IE ]>
+  <div id="gardens_ie">
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  <div id="gardens_ie8">
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  <div id="gardens_ie7">
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  <div id="gardens_ie-deprecated">
+  <![endif]-->
+
+    
+<div id="page" class="page clearfix tb-terminal">
+
+  <div id="page-deco-top" class="deco-page-top deco-page deco-top deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+  
+  <div id="page-deco-bottom" class="deco-page-bottom deco-page deco-bottom deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+    
+  <div class="page-width tb-scope">
+    <div class="lining tb-terminal"> <!-- Broken out of .page-width to avoid update issues with margin: 0 auto being undone -->
+    
+      <div id="header" class="wrapper-header wrapper clearfix tb-scope">
+      
+        <div id="header-deco-top" class="deco-header-top deco-header deco-top deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+        
+        <div id="header-deco-bottom" class="deco-header-bottom deco-header deco-bottom deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+      
+                
+                
+        <!-- Navigation --> 
+         
+          <div id="navigation" class="stack-navigation stack col-align-right horizontal pulldown clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box col-1 clearfix tb-terminal">
+                      <div id="navigation-region" class="col tb-region tb-scope tb-height-balance">
+                          <div class="region region-navigation">
+    
+<div id="block-block-6" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <p><a href="https://sicrediuniaomsto.coop.br/"><img alt="" class="media-image" id="logotopo" style="width: 180px; height: 43px;" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/sicredi-logo.png" width="158" height="38" /></a></p>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-system-main-menu" class="block block-system block-menu menu-dropdown clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Menu principal</h2>
+            
+              
+      <div class="content">
+        <ul class="menu"><li class="first last expanded level-1 menu-link-4188 level-1 menu-link-4188"><a href="/# " title="">⠀</a><ul class="menu"><li class="first expanded level-2 menu-link-2371 level-2 menu-link-2371"><a href="/sicredi-uniao-ms-to">Sicredi União MS/TO</a><ul class="menu"><li class="first leaf level-3 menu-link-3063 menu-views"><div class="view view-menu-institucional view-id-menu_institucional view-display-id-block view-dom-id-8ba932dad4bcc7cf7ec9d1d90d8b3948">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/diferenciais-sicredi">Diferenciais Sicredi</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/fundo-social-2023">Fundo Social 2023</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/historico">Histórico</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/igualdade-salarial-de-mulheres-e-homens">Igualdade Salarial de Mulheres e Homens</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/missao-e-valores">Missão, Visão e Valores</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+<li class="last leaf level-3 menu-link-3103 level-3 menu-link-3103"><a href="/galeria-de-imagens" title="">Galeria</a></li>
+</ul></li>
+<li class="expanded level-2 menu-link-2991 level-2 menu-link-2991"><a href="/gestao">Gestão</a><ul class="menu"><li class="first leaf level-3 menu-link-3067 level-3 menu-link-3067"><a href="/assembleias" title="">Assembleias</a></li>
+<li class="leaf level-3 menu-link-3200 level-3 menu-link-3200"><a href="/estatuto-sicredi-uniao-ms-to">Estatuto Social</a></li>
+<li class="leaf level-3 menu-link-3115 level-3 menu-link-3115"><a href="/categoria-nucleo" title="">Núcleos da Cooperativa</a></li>
+<li class="leaf level-3 menu-link-3071 level-3 menu-link-3071"><a href="/relatorios" title="">Relatórios</a></li>
+<li class="leaf level-3 menu-link-3073 level-3 menu-link-3073"><a href="/regimentos-internos%20" title="">Normativos</a></li>
+<li class="leaf level-3 menu-link-3074 level-3 menu-link-3074"><a href="/governanca">Governança</a></li>
+<li class="leaf level-3 menu-link-3197 level-3 menu-link-3197"><a href="/organograma">Organograma</a></li>
+<li class="leaf level-3 menu-link-3198 level-3 menu-link-3198"><a href="/programa-crescer">Programa Crescer</a></li>
+<li class="leaf level-3 menu-link-3199 level-3 menu-link-3199"><a href="/programa-pertencer">Programa Pertencer</a></li>
+<li class="leaf level-3 menu-link-3075 level-3 menu-link-3075"><a href="/links-uteis" title="">Links Úteis</a></li>
+<li class="last leaf level-3 menu-link-5608 level-3 menu-link-5608"><a href="/programa-uniao-faz-a-vida" title="">Programa PUFV</a></li>
+</ul></li>
+<li class="expanded level-2 menu-link-2996 level-2 menu-link-2996"><a href="/contact" title="">Soluções</a><ul class="menu"><li class="first leaf level-3 menu-link-3083 level-3 menu-link-3083"><a href="https://www.sicredi.com.br/html/cartoes/" title="" target="_blank">Cartões</a></li>
+<li class="leaf level-3 menu-link-3084 level-3 menu-link-3084"><a href="https://www.sicredi.com.br/websitesicredi/sicredi/psmlId/38?selectedMenuItemId=72&amp;timemilis=1353072807540&amp;psmlToBack=123&amp;menuId=5&amp;paneSelected=&amp;psmlToBack=123&amp;idxMaxNavHistory=1" title="" target="_blank">Câmbio</a></li>
+<li class="leaf level-3 menu-link-3085 level-3 menu-link-3085"><a href="https://www.sicredi.com.br/html/consorcios/" title="" target="_blank">Consórcios</a></li>
+<li class="leaf level-3 menu-link-3086 level-3 menu-link-3086"><a href="https://www.sicredi.com.br/html/credito/" title="" target="_blank">Crédito</a></li>
+<li class="leaf level-3 menu-link-3087 level-3 menu-link-3087"><a href="https://www.sicredi.com.br/html/investimentos/" title="" target="_blank">Investimentos</a></li>
+<li class="leaf level-3 menu-link-3088 level-3 menu-link-3088"><a href="https://www.sicredi.com.br/html/pagamentos/" title="" target="_blank">Pagamentos</a></li>
+<li class="leaf level-3 menu-link-3089 level-3 menu-link-3089"><a href="https://www.sicredi.com.br/html/previdencia/" title="" target="_blank">Previdência</a></li>
+<li class="leaf level-3 menu-link-3090 level-3 menu-link-3090"><a href="https://www.sicredi.com.br/html/recebimentos/" title="" target="_blank">Recebimentos</a></li>
+<li class="last leaf level-3 menu-link-3091 level-3 menu-link-3091"><a href="https://www.sicredi.com.br/html/seguros/" title="" target="_blank">Seguros</a></li>
+</ul></li>
+<li class="expanded level-2 menu-link-3001 level-2 menu-link-3001"><a href="/noticias" title="">Notícias</a><ul class="menu"><li class="first leaf level-3 menu-link-3100 level-3 menu-link-3100"><a href="/informativos" title="">Informativos</a></li>
+<li class="leaf level-3 menu-link-4257 level-3 menu-link-4257"><a href="/podcast" title="">Podcast</a></li>
+<li class="last leaf level-3 menu-link-3207 level-3 menu-link-3207"><a href="/o-contexto-da-rede-global-de-l%C3%ADderes-mulheres-0">Sister Society Brasil</a></li>
+</ul></li>
+<li class="expanded level-2 menu-link-3006 level-2 menu-link-3006"><a href="/rede-atendimento">Rede de Atendimento</a><ul class="menu"><li class="first leaf level-3 menu-link-3092 level-3 menu-link-3092"><a href="/rede-atendimento" title="">Endereços e Fones das Agências</a></li>
+<li class="leaf level-3 menu-link-3213 level-3 menu-link-3213"><a href="https://www.sicrediuniaomsto.coop.br/classificados/62" title="">Classificados</a></li>
+<li class="leaf level-3 menu-link-3094 level-3 menu-link-3094"><a href="/trabalhe-conosco">Trabalhe Conosco</a></li>
+<li class="last leaf level-3 menu-link-3238 level-3 menu-link-3238"><a href="/links-uteis" title="">COOP</a></li>
+</ul></li>
+<li class="expanded level-2 menu-link-3234 level-2 menu-link-3234"><a href="/comites">Comitês</a><ul class="menu"><li class="first leaf level-3 menu-link-3235 level-3 menu-link-3235"><a href="/comite-mulher">Comitê Mulher</a></li>
+<li class="leaf level-3 menu-link-3236 level-3 menu-link-3236"><a href="/comite-jovem">Comitê Jovem</a></li>
+<li class="leaf level-3 menu-link-3237 level-3 menu-link-3237"><a href="/comite-atividades-sociais">Comitê Atividades Sociais</a></li>
+<li class="last leaf level-3 menu-link-4937 level-3 menu-link-4937"><a href="/comit%C3%AA-de-sustentabilidade" title="">Comitê de Sustentabilidade</a></li>
+</ul></li>
+<li class="last leaf level-2 menu-link-5425 level-2 menu-link-5425"><a href="https://www.sicredi.com.br/site/protecao-e-privacidade" title="">Proteção e Privacidade</a></li>
+</ul></li>
+</ul>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-43" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div class="dropdown"><a href="https://sicrediuniaomsto.coop.br/user"><img class="dropbtn" id="cadeado" src="https://sicrediuniaomsto.coop.br/sites/default/files/imgtst.png" style="width:25px;margin-top: -10px;margin-left: 10px;"></a><div class="dropdown-content" id="myDropdown" ><span style="color:#000000;">Olá, Seja bem vindo.</span> <strong> <a href="https://www.sicrediuniaomsto.coop.br/user/[current-user:uid]/edit"><span style="color:#000000;">Minha Conta</span></a> <span style="color:#000000;"> | </span> <a href="https://www.sicrediuniaomsto.coop.br/informativo-interno"><span style="color:#000000;">União Informa</span></a><span style="color:#000000;"> | </span> <a href="https://www.sicrediuniaomsto.coop.br/user/"><span style="color:#000000;">Entrar</span></a> </strong></div></div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-search-form" class="block block-search clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulário de busca</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Buscar </label>
+ <input title="Digite os termos que você deseja procurar." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Buscar" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-_44Fq2YZl33bnIaQMHyt3DJhcu7ZkvV8FGBT0B9UF2s" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+      </div> <!-- /#header -->
+      
+      <div id="content" class="wrapper-content wrapper clearfix tb-scope">
+        <div class="wrapper-1 tb-terminal tb-content-wrapper-1">
+          <div class="wrapper-2 tb-terminal tb-content-wrapper-2">
+      
+            <div id="content-deco-top" class="deco-content-top deco-content deco-top deco tb-scope tb-scope-prefer">
+              <div class="width deco-width inner tb-terminal">
+                <div class="layer-a layer"></div>
+                <div class="layer-b layer"></div>
+                <div class="layer-c layer"></div>
+                <div class="layer-d layer"></div>
+              </div>
+            </div>
+            
+            <div id="content-deco-bottom" class="deco-content-bottom deco-content deco-bottom deco tb-scope tb-scope-prefer">
+              <div class="width deco-width inner tb-terminal">
+                <div class="layer-a layer"></div>
+                <div class="layer-b layer"></div>
+                <div class="layer-c layer"></div>
+                <div class="layer-d layer"></div>
+              </div>
+            </div>
+          
+                          <div id="banner" class="stack-banner stack clearfix tb-scope">
+                <div class="stack-width inset-1 inset tb-terminal">
+                  <div class="inset-2 inset tb-terminal">
+                    <div class="inset-3 inset tb-terminal">
+                      <div class="inset-4 inset tb-terminal">
+                        <div class="box clearfix tb-terminal">
+                          <div id="banner-region" class="col tb-region tb-scope tb-height-balance">
+                              <div class="region region-banner">
+    
+<div id="block-views-banner-home-block" class="block block-views block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div class="view view-banner-home view-id-banner_home view-display-id-block view-dom-id-2662c9dcf1d70ad44a621bb5a41162fa">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_banner_home-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_banner_home-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_banner_home-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" aria-labelledby='views_slideshow_pager_field_item_bottom_banner_home-block_1_0'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first banners">
+    
+  <div class="views-field views-field-field-banner-img">        <div class="field-content"><div class="banner-responsivo"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/banners/B.W%20C.S%20-%20ANA%20CASTELA_0.png" width="1500" height="600" alt="" /> </div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_banner_home-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-last views-row-even" aria-labelledby='views_slideshow_pager_field_item_bottom_banner_home-block_1_1'>
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd banners">
+    
+  <div class="views-field views-field-field-banner-img">        <div class="field-content"><div class="banner-responsivo"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/banners/DONASDONEG%C3%93CIO_CampanhaInstitucional_BannerSite_1500x600PX_0.png" width="1500" height="600" alt="" /> </div></div>  </div></div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="widget_pager_bottom_banner_home-block_1" class="views-slideshow-simple-pager widget_pager widget_pager_bottom views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_bottom_banner_home-block_1_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd views-row-first" aria-controls="views_slideshow_cycle_div_banner_home-block_1_0">
+  <a href="javascript:void(0)">1</a></div>
+<div id="views_slideshow_pager_field_item_bottom_banner_home-block_1_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even" aria-controls="views_slideshow_cycle_div_banner_home-block_1_1">
+  <a href="javascript:void(0)">2</a></div>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+                        
+                            
+                      
+            
+             
+            <div id="content-inner" class="stack-content-inner stack clearfix tb-scope">
+              <div class="stack-width inset-1 inset tb-terminal">
+                <div class="inset-2 inset tb-terminal">
+                  <div class="inset-3 inset tb-terminal">
+                    <div class="inset-4 inset tb-terminal">
+                      <div class="box clearfix tb-terminal tb-preview-shuffle-regions">
+                        
+                                                
+                                                  
+                         <!-- end sidebars -->
+                        
+                        <div id="main" class="col-c tb-height-balance tb-region tb-scope tb-primary">
+                                                    <div class="pane">
+                            <a id="skip-to-content-target" class="skip-to-link" title="Target of skip-to-content link"></a>
+                                                                                                                                              <div class="tabs"></div>
+                                                                                                                                              <div id="content-area" class="content-area">  <div class="region region-content">
+    
+<div id="block-block-55" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <div class="somos">
+<div class="texto"><hgroup><br />
+<h1>Nós somos a</h1>
+<h2>Sicredi União MS/TO<br />e Oeste da Bahia</h2>
+<p></p></hgroup><br />
+<div class="texto02">
+<p>A primeira Instituição Financeira Cooperativa do Brasil.<br />Em um mundo cada vez mais colaborativo, queremos unir pessoas com os mesmos propósitos. Por isso, acreditamos que é possível lidar com o dinheiro de uma maneira diferente.</p>
+<p><br /><span style="font-size:20px;"><strong><a href="https://sicrediuniaomsto.coop.br/rede-atendimento" style="color:#5a645b;"><span style="color:#3fa110;">Confira as agências da nossa Cooperativa e en­con­tre a mais próxima de você.</span></a></strong></span></p>
+<p> </p>
+<p><a href="https://www.sicredi.com.br/site/conta-corrente" target="_blank"><span style="color:#5a645a;">Clique aqui e tire suas dúvidas</span></a></p>
+</div>
+</div>
+<p><a class="waves-effect waves-light btn modal-trigger" href="#modal1" onclick="IniciaVideo()"><img alt="" src="https://www.sicredi.com.br/site/assets/img/home/video_pf.jpg" /> <img alt="" class="play" src="https://www.sicredi.com.br/site/assets/icons/play.png" /> </a><br />
+</p><div class="modal" id="modal1">
+<div class="modal-footer"><a class="modal-close waves-effect waves-green btn-flat" href="#!" onclick="ParaVideo()">fechar x</a></div>
+<div class="modal-content"><video controls="" height="415px" id="video" width="100%"><source src="https://www.sicrediuniaomsto.coop.br/videos/Sicredi%20-%20Segmentos%20PF%20(horizontal).mp4" type="video/mp4"></source></video></div>
+</div>
+</div>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-53" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <div class="bloco-53">
+<div class="bloco-53-a">
+<p><a href="https://sicrediuniaomsto.coop.br/rede-atendimento"><img alt="" class="media-image" height="112" style="width: 220px; height: 80px;" width="308" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/ENCONTRE-AGENCIA-SICREDI.png" /></a></p>
+<p><a href="https://sicrediuniaomsto.coop.br/rede-atendimento" target="_blank">Encontre uma agência da nossa<br />Cooperativa próxima de você →</a></p>
+</div>
+<div class="bloco-53-a">
+<p><a href="http://201.73.145.26/portalcesta/Login.aspx" target="_blank"><img alt="" class="media-image" style="width: 199px; height: 134px;" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/Ativo%201-8_0.png" width="199" height="134" /></a><a href="http://179.124.11.14:8081/restrito/index.php" target="_blank"> </a></p>
+<p><a href="http://201.73.145.26/portalcesta/Login.aspx" target="_blank">Acesse o Armazém União →</a></p>
+</div>
+<div class="bloco-53-a">
+<p><a href="http://portal.sicrediuniaomsto.coop.br/" target=""><img alt="" class="media-image" height="135" style="width: 220px; height: 94px;" width="315" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/Portal-da-Lideran%C3%A7a.png" /></a></p>
+<p><a href="https://portal.sicrediuniaomsto.coop.br/">Acesse aqui →</a></p>
+</div>
+<div class="bloco-53-a">
+<p><a href="https://sicrediuniaomsto.coop.br/fundo-social-2023" target="_self"><img alt="" class="media-image" height="661" style="width: 220px; height: 149px;" width="973" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/Logo_Fundo_Social.png" /></a></p>
+<p><a href="https://sicrediuniaomsto.coop.br/fundo-social-2023">Confira os projetos aprovados<br />em nosso Fundo Social →</a></p>
+</div>
+</div>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-system-main" class="block block-system clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div id="node-1025" class="node node-livro-30-anos node-promoted node-teaser odd clearfix" about="/184" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/184">184</a></h2>
+        <span property="dc:title" content="184" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T17:00:10-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 17:00</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/184" rel="tag" title="184">Leia mais<span class="element-invisible"> sobre 184</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1024" class="node node-livro-30-anos node-promoted node-teaser even clearfix" about="/183" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/183">183</a></h2>
+        <span property="dc:title" content="183" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:59:27-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:59</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/183" rel="tag" title="183">Leia mais<span class="element-invisible"> sobre 183</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1023" class="node node-livro-30-anos node-promoted node-teaser odd clearfix" about="/182" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/182">182</a></h2>
+        <span property="dc:title" content="182" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:59:00-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:59</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/182" rel="tag" title="182">Leia mais<span class="element-invisible"> sobre 182</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1022" class="node node-livro-30-anos node-promoted node-teaser even clearfix" about="/181" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/181">181</a></h2>
+        <span property="dc:title" content="181" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:57:58-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:57</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/181" rel="tag" title="181">Leia mais<span class="element-invisible"> sobre 181</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1021" class="node node-livro-30-anos node-promoted node-teaser odd clearfix" about="/180" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/180">180</a></h2>
+        <span property="dc:title" content="180" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:57:13-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:57</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/180" rel="tag" title="180">Leia mais<span class="element-invisible"> sobre 180</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1020" class="node node-livro-30-anos node-promoted node-teaser even clearfix" about="/179" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/179">179</a></h2>
+        <span property="dc:title" content="179" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:56:44-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:56</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/179" rel="tag" title="179">Leia mais<span class="element-invisible"> sobre 179</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1019" class="node node-livro-30-anos node-promoted node-teaser odd clearfix" about="/178" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/178">178</a></h2>
+        <span property="dc:title" content="178" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:56:11-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:56</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/178" rel="tag" title="178">Leia mais<span class="element-invisible"> sobre 178</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1018" class="node node-livro-30-anos node-promoted node-teaser even clearfix" about="/177" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/177">177</a></h2>
+        <span property="dc:title" content="177" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:55:41-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:55</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/177" rel="tag" title="177">Leia mais<span class="element-invisible"> sobre 177</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1017" class="node node-livro-30-anos node-promoted node-teaser odd clearfix" about="/176" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/176">176</a></h2>
+        <span property="dc:title" content="176" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:55:15-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:55</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/176" rel="tag" title="176">Leia mais<span class="element-invisible"> sobre 176</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<div id="node-1016" class="node node-livro-30-anos node-promoted node-teaser even clearfix" about="/175" typeof="sioc:Item foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="livro_30_anos-header"><a href="/175">175</a></h2>
+        <span property="dc:title" content="175" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Enviado por <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/administrador" typeof="sioc:UserAccount" property="foaf:name" datatype="">administrador</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2018-11-29T16:54:38-03:00" datatype="xsd:dateTime">qui, 29/11/2018 - 16:54</span></span></div>
+      </div>
+    
+    <div class="content">
+          </div>
+    
+        
+        
+  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/175" rel="tag" title="175">Leia mais<span class="element-invisible"> sobre 175</span></a></li>
+</ul><ul class="links inline actions"><li class="comment_forbidden first last"></li>
+</ul>
+  
+</div>
+<h2 class="element-invisible">Páginas</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Ir para a página 2" href="/node?page=1">2</a></li>
+<li class="pager-item"><a title="Ir para a página 3" href="/node?page=2">3</a></li>
+<li class="pager-item"><a title="Ir para a página 4" href="/node?page=3">4</a></li>
+<li class="pager-item"><a title="Ir para a página 5" href="/node?page=4">5</a></li>
+<li class="pager-item"><a title="Ir para a página 6" href="/node?page=5">6</a></li>
+<li class="pager-item"><a title="Ir para a página 7" href="/node?page=6">7</a></li>
+<li class="pager-item"><a title="Ir para a página 8" href="/node?page=7">8</a></li>
+<li class="pager-item"><a title="Ir para a página 9" href="/node?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Ir para a próxima página" href="/node?page=1">próximo ›</a></li>
+<li class="pager-last last"><a title="Ir para a última página" href="/node?page=18">fim »</a></li>
+</ul></div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-views-noticias-block" class="block block-views clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>«nenhum»</h2>
+            
+              
+      <div class="content">
+        <div class="view view-noticias view-id-noticias view-display-id-block view-dom-id-1a72ead8183b632fa27fc7a971abe2ec">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-imagem">        <div class="field-content"><a href="/sicredi-lan%C3%A7a-site-de-educa%C3%A7%C3%A3o-financeira-durante-11%C2%AA-semana-enef"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/300x300/public/noticias/Semana-ENEF-2024.jpg?itok=WfOMkMIN" width="300" height="300" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sicredi-lan%C3%A7a-site-de-educa%C3%A7%C3%A3o-financeira-durante-11%C2%AA-semana-enef">Sicredi lança site de educação financeira durante a 11ª Semana ENEF</a></span>  </div>  
+  <div class="views-field views-field-field-texto-destaque">        <div class="field-content">No espaço, são disponibilizados gratuitamente cursos e conteúdos interativos </div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-imagem">        <div class="field-content"><a href="/sicredi-est%C3%A1-entre-5-melhores-institui%C3%A7%C3%B5es-financeiras-brasileiras-no-ranking-mundial-da-forbes"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/300x300/public/noticias/Sicredi-fachada.jpg?itok=Iej2XSOS" width="300" height="300" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/sicredi-est%C3%A1-entre-5-melhores-institui%C3%A7%C3%B5es-financeiras-brasileiras-no-ranking-mundial-da-forbes">Sicredi está entre as 5 melhores instituições financeiras brasileiras no ranking mundial da Forbes </a></span>  </div>  
+  <div class="views-field views-field-field-texto-destaque">        <div class="field-content">Forbes  Mais de 49 mil pessoas de 33 países avaliaram os bancos com base em vários critérios relacionados a experiência  </div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-imagem">        <div class="field-content"><a href="/edital-2024-do-fundesis-contempla-14-projetos-sociais-em-parceria-com-o-sicredi"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/300x300/public/noticias/Image%20%284%29.jpg?itok=vLeC_ytd" width="300" height="300" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/edital-2024-do-fundesis-contempla-14-projetos-sociais-em-parceria-com-o-sicredi">Edital 2024 do Fundesis contempla 14 projetos sociais em parceria com o Sicredi</a></span>  </div>  
+  <div class="views-field views-field-field-texto-destaque">        <div class="field-content">Fundesis</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+       <div class="ver_tds"><a href="https://sicrediuniaomsto.coop.br/noticias" style="color:black;float: right;  font-size: 20px;margin-top: 25px;">Ver todas noticias → </a></div>
+     </div>
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-views-classificados-block" class="block block-views clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Classificados Sicredi</h2>
+            
+              
+      <div class="content">
+        <div class="view view-classificados view-id-classificados view-display-id-block view-dom-id-3cd357aa431ee9306ba6c0b47bf919f2">
+            <div class="view-header">
+       <p class="vejadestaques">VEJA OS DESTAQUES</p>
+     </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="carousel-item">
+      
+  <div class="views-field views-field-field-galeria-de-fotos">        <div class="field-content"><a href="/classificados/nissan-frontier-xe-25tdi-20122013"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/450x450/public/classificados/1715104110_33354pd.jpg?itok=5XkXaoZo" width="450" height="450" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/classificados/nissan-frontier-xe-25tdi-20122013">NISSAN / FRONTIER XE 2.5TDI / 2012/2013</a></span>  </div>  
+  <div class="views-field views-field-field-valor">        <div class="field-content">R$ 83.900,00</div>  </div>  </div>
+  <div class="carousel-item">
+      
+  <div class="views-field views-field-field-galeria-de-fotos">        <div class="field-content"><a href="/classificados/vw-amarok-highline-20tdi-20102011"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/450x450/public/classificados/1714828927_49388.jpg?itok=vFs6hHpW" width="450" height="450" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/classificados/vw-amarok-highline-20tdi-20102011">VW/ AMAROK HIGHLINE 2.0TDI/ 2010/2011</a></span>  </div>  
+  <div class="views-field views-field-field-valor">        <div class="field-content">R$ 84.900,00</div>  </div>  </div>
+  <div class="carousel-item">
+      
+  <div class="views-field views-field-field-galeria-de-fotos">        <div class="field-content"><a href="/classificados/effa-v21-20212021-rwa9i50"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/450x450/public/classificados/EFFA2.jpg?itok=ABpAw4Qz" width="450" height="450" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/classificados/effa-v21-20212021-rwa9i50">EFFA / V21 2021/2021 RWA9I50</a></span>  </div>  
+  <div class="views-field views-field-field-valor">        <div class="field-content">R$ R$ 52.000,00</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+       <div class="ver_tds"><a href="classificados/62" style="font:bold 20px 'exo 2';color:#000000;"> MAIS CLASSIFICADOS</a></div>     </div>
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-views-informativo-home-block" class="block block-views clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Informativo Sicredi</h2>
+            
+              
+      <div class="content">
+        <div class="view view-informativo-home view-id-informativo_home view-display-id-block view-dom-id-5d7e0851cbae1a3a828de0ad3d590472">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/informativo-fevereiro2024-0">Confira o Último Informativo</a></span>  </div>  
+  <div class="views-field views-field-field-capa">        <div class="field-content"><a href="/informativo-fevereiro2024-0"><img typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/256x363/public/CAPA%20INFO%20FEV%2024_P%C3%A1gina_01.png?itok=sfAgzUMP" width="256" height="363" alt="" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+       <div class="mais-informativos"><a style="font:bold 20px 'exo 2';color:#000000;" href="https://www.sicrediuniaomsto.coop.br/informativos">MAIS INFORMATIVOS</a></div>     </div>
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+</div>
+                                                      </div>
+                        </div>
+                        
+                      </div> <!-- /.box tb-terminal -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+            </div> <!-- /#main -->
+            
+          </div>
+        </div>
+      </div> <!-- /#content -->
+        
+              <div id="footer" class="wrapper-footer wrapper clearfix tb-scope">
+        
+          <div id="footer-deco-top" class="deco-footer-top deco-footer deco-top deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+          
+          <div id="footer-deco-bottom" class="deco-footer-bottom deco-footer deco-bottom deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+              
+                                              <div id="prefooter" class="stack-prefooter stack-pre stack clearfix tb-scope">
+              <div class="stack-width inset-1 inset tb-terminal tb-prefooter-1">
+                <div class="inset-2 inset tb-terminal tb-prefooter-2">
+                  <div class="inset-3 inset tb-terminal">
+                    <div class="inset-4 inset tb-terminal">
+                    
+                                              
+                      <div class="box col-1 clearfix tb-terminal">
+                      
+                                                
+                         
+                          <div class="col-second col only last tb-height-balance tb-terminal">
+                            <div id="prefooter-second-region" class="tb-region tb-scope">
+                                <div class="region region-prefooter-second">
+    
+<div id="block-block-36" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <div class="ft1">
+<h1>Entre em contato com a Sicredi União MS/TO e Oeste da Bahia</h1>
+<p>Em caso de dúvidas, sugestões ou reclamações</p>
+<hr />
+<div class="bloco-rodape">
+<div>
+<p>Serviços por telefone</p>
+<p>Capitais e regiões metropolitanas</p>
+<h1><a href="tel:3003-4770">+55 66 9654 1591</a></h1>
+<p>* Custo de uma ligação</p>
+<p> 
+</p><p>Demais e regiões</p>
+<h1><a href="tel:08007244770">0800 320 4720</a></h1>
+<p>* Sem Custo</p>
+</div>
+<div>
+<p>SAC</p>
+<p>Informações, elogios e reclamações</p>
+<h1><a href="tel:08007247220">0800 755 7320</a></h1>
+<p> 
+</p><p>Chamadas Internacionais (a cobrar)</p>
+<h1><a href="tel:555133784472">+55 66 9654 1591</a></h1>
+</div>
+<div>
+<p>Ouvidoria</p>
+<p>Reclamações e denúncias</p>
+<h1><a href="tel:08006462519">0800 320 2520</a></h1>
+<p> 
+</p><p>Atendimento aos Deficientes</p>
+<p>Auditivos ou de fala</p>
+<h1><a href="tel:08007240525">0800 320 1281</a></h1>
+</div>
+</div>
+<p> </p>
+<p><strong>Canais de atendimento</strong>
+</p><p> </p>
+<p><img alt="" class="media-image" height="480" style="width: 20px; height: 20px;" width="480" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/large/public/Ativo%201%404x.png?itok=_XB0dpng" /> <a href="tel:6733112102">(66)9654-1591</a>     <a href="mailto:"><img alt="" class="media-image" height="480" style="width: 30px; height: 30px;" width="480" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/large/public/043-email.png?itok=Q0adgxoD" /></a> <a href="mailto:"> </a>     <a href="https://www.facebook.com/sicrediuniaomsto/"><img alt="" class="media-image" height="480" style="width: 20px; height: 20px;" width="479" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/large/public/013-facebook.png?itok=NW40MU0x" /></a>  <a href="https://www.instagram.com/sicrediuniaomsto/"><img alt="" class="media-image" height="480" style="width: 20px; height: 20px;" width="480" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/large/public/014-instagram.png?itok=-Ukv2bCw" /></a>  <a href="https://www.youtube.com/channel/UC-uTxwqNzvsZauCBtBSpxlQ"><img alt="" class="media-image" height="480" style="width: 25px; height: 25px;" width="480" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/large/public/018-youtube.png?itok=08g8KW2J" /></a></p>
+<p> 
+</p><p><img alt="" class="media-image" height="480" style="width: 20px; height: 20px;" width="479" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/styles/large/public/006-pin.png?itok=xNKt4PtY" /> </p>
+</div>
+<div class="ft3"> </div>
+<div class="ft4">
+<p><a href="https://www.sicrediuniaomsto.coop.br/regimentos-internos">Normativos</a></p>
+<p> 
+</p><p><a href="https://www.sicrediuniaomsto.coop.br/assembleias">Assembleias</a></p>
+<p> 
+</p><p><a href="https://www.sicrediuniaomsto.coop.br/relatorios">Relatórios Anuais</a></p>
+<p> 
+</p><p><a href="https://www.sicrediuniaomsto.coop.br/informativos">Informativos</a></p>
+<p> 
+</p><p><a href="https://www.sicrediuniaomsto.coop.br/livro-30-anos">Livro 30 Anos</a></p>
+<p> 
+</p><p><a href="https://www.sicredi.com.br/site/protecao-e-privacidade/" target="_blank">Proteção e Privacidade</a></p>
+</div>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div>
+                                                
+                       
+                        
+                                                
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                  </div> <!-- /#footer -->
+            
+    </div> <!-- /.lining -->
+  </div> <!-- /.page-width -->
+</div> <!-- /#page -->
+    
+ 
+  <div id="copyright" class="stack-copyright stack page clearfix tb-region tb-scope">
+    <div class="page-width inner">
+      <div class="stack-width">
+        <div class="box">
+            <div class="region region-copyright">
+    
+<div id="block-block-41" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <div class="logo-rodape"><a href="#"><img alt="" class="media-image" height="38" style="width: 158px; height: 38px;" width="158" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/sicredi-logo_2.png" /></a></div>
+<div class="texto-rodape" style="text-align: center;">
+<p><span style="color:#FFFFFF;">Sicredi União MS/TO e Oeste da Bahia © 2022 - Todos os Direitos Reservados</span></p>
+</div>
+<div class="dijexweb"><a href="https://www.dijexweb.com.br/"><img alt="" class="media-image" height="35" style="width: 95px; height: 35px;" width="95" typeof="foaf:Image" src="https://sicrediuniaomsto.coop.br/sites/default/files/dijexweb_0.png" /></a></div>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://sicrediuniaomsto.coop.br/sites/default/files/js/js_Fl8DctnznJ4fSz4gYMnWAQWJujwJNw-_pMz9aiO_aNA.js"></script>
+
+  <!--[if IE ]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  </div>
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  </div>
+  <![endif]
+  <div class="overlay"><img src="1.png"></div>-->
+  <script>M.AutoInit();</script>
+</body>
+</html>
